@@ -15,7 +15,9 @@ display_name = "Seam Fix"
 
 # The description that will show up when this mod is displayed in the mod menu. This should be human readable.
 description =  """
-Fixes the horrible seam in South Clock Town"""
+Fixes the horrible seam in South Clock Town.
+
+Thanks to Wiseguy for providing guidance."""
 
 # A short description that will show up in this mod's entry in the mod list. This should be human readable and kept short
 # to prevent it from being cut off due to the limited space.
@@ -57,30 +59,3 @@ data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zel
 
 # Additional files to include in the mod.
 additional_files = ["thumb.dds"]
-
-[[manifest.config_options]]
-id = "enum_option"
-name = "Enum Option"
-description = "Test enum config option"
-type = "Enum"
-options = [ "First", "Second" ]
-default = "First"
-
-[[manifest.config_options]]
-id = "number_option"
-name = "Number Option"
-description = "Test number config option."
-type = "Number"
-min = 0
-max = 10
-step = 0.1
-precision = 1
-percent = false
-default = 1
-
-[[manifest.config_options]]
-id = "string_option"
-name = "String Option"
-description = "Test string config option."
-type = "String"
-default = "Lorem Ipsum"

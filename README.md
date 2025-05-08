@@ -2,6 +2,8 @@
 
 Fixes the annoying seam in South Clock Town. That's it. This might be updated to fix more seams in the future. 
 
+Thanks to Wiseguy for providing guidance.
+
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
 

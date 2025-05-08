@@ -1,9 +1,7 @@
 {
     "name": "Seam_Fixer",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Reonu/mm-seam-fixer",
     "description": "Fixes the horrible seam in South Clock Town.",
-    "dependencies": [
-        "LT_Schmiddy-EZ_Text_Replacer_API-2.0.0"
-    ]
+    "dependencies": []
 }

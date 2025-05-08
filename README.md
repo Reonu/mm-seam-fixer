@@ -10,7 +10,8 @@ Before:
 
 After: 
 
-![imagen](https://github.com/user-attachments/assets/7ec04827-dd99-48d9-a9d5-4627cca925e2)
+![imagen](https://github.com/user-attachments/assets/ed7a8c55-f270-4f6b-a8d1-8706a82c6663)
+
 
 
 ### Writing mods

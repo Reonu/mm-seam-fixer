@@ -1,0 +1,16 @@
+#ifndef VOLCANO_CLEARED_FIX_POS_H
+#define VOLCANO_CLEARED_FIX_POS_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 volcano_cleared_fix_pos_tex_004A18_rgba16_png_001_rgba16[];
+extern u64 volcano_cleared_fix_pos_tex_004618_rgba16_png_001_rgba16[];
+extern Vtx volcano_cleared_fix_pos_volcano_cleared_fix_pos_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx volcano_cleared_fix_pos_volcano_cleared_fix_pos_mesh_layer_Opaque_vtx_0[124];
+extern Gfx volcano_cleared_fix_pos_volcano_cleared_fix_pos_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_volcano_cleared_fix_pos_f3dlite_material_003_layerOpaque[];
+extern Gfx mat_revert_volcano_cleared_fix_pos_f3dlite_material_003_layerOpaque[];
+extern Gfx volcano_cleared_fix_pos[];
+
+#endif

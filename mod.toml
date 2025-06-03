@@ -8,20 +8,18 @@
 id = "mm_seam_fixer"
 
 # Version of this mod.
-version = "1.0.1"
+version = "1.1.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
-display_name = "Seam Fix"
+display_name = "Seam Fixer"
 
 # The description that will show up when this mod is displayed in the mod menu. This should be human readable.
 description =  """
-Fixes the horrible seam in South Clock Town.
-
-Thanks to Wiseguy for providing guidance."""
+Fixes various geometry seams and graphical oversights."""
 
 # A short description that will show up in this mod's entry in the mod list. This should be human readable and kept short
 # to prevent it from being cut off due to the limited space.
-short_description = "Fixes the horrible seam in South Clock Town."
+short_description = "Fixes various geometry seams and graphical oversights."
 
 # Authors of this mod.
 authors = [ "Reonu" ]
@@ -55,7 +53,7 @@ mod_filename = "mm_seam_fix"
 
 # Reference symbol files.
 func_reference_syms_file = "Zelda64RecompSyms/mm.us.rev1.syms.toml"
-data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zelda64RecompSyms/mm.us.rev1.datasyms_static.toml" ]
+data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zelda64RecompSyms/mm.us.rev1.datasyms_static.toml", "breakwall_symbol.toml"]
 
 # Additional files to include in the mod.
 additional_files = ["thumb.dds"]

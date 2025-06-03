@@ -1,7 +1,7 @@
 {
     "name": "Seam_Fixer",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/Reonu/mm-seam-fixer",
-    "description": "Fixes the horrible seam in South Clock Town.",
+    "description": "Fixes various geometry seams and graphical oversights.",
     "dependencies": []
 }

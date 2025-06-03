@@ -1,0 +1,9 @@
+[[section]]
+name = "..ovl_Bg_Breakwall"
+rom = 0x00D31570
+vram = 0x808B7360
+size = 0x1130
+
+symbols = [
+    { name = "Bg_Breakwall_sInitChain", vram = 0x808b82e0  },
+]
